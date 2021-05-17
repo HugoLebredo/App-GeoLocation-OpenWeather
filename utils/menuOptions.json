@@ -1,0 +1,14 @@
+[
+    {
+        "value": 1,
+        "name": "Search city"
+    },
+    {
+        "value": 2,
+        "name": "City history"
+    },
+    {
+        "value": 0,
+        "name": "Exit"
+    }
+]
